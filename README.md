@@ -9,3 +9,6 @@ The project ended up having support for three levels of user privileges (Guest, 
 ## Screenshots
 ### Splash Screen
 ![splash screen](https://raw.githubusercontent.com/James-Oswald/PI-Day-2016-BPAC/master/screenshots/opening.png)
+### Admin List
+A list of all commands on the system obtained by running the `List` command in admin mode  
+![Admin List](https://raw.githubusercontent.com/James-Oswald/PI-Day-2016-BPAC/master/screenshots/admin.png)
